@@ -1,1 +1,210 @@
-# il
+
+<div align="center">
+
+<img src="https://image.tmdb.org/t/p/w500/rQMynsdhCJiCKIxm833uHFDWci2.jpg" alt="Гравитация Poster" width="280" style="border-radius: 16px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
+
+</div>
+
+<div align="center">
+
+<h2>Гравитация (2013)</h2>
+
+</div>
+
+<div align="center">
+
+| **⭐ Rating** | **🎬 Runtime** | **📅 Release** | **🔥 Popularity** |
+|:---:|:---:|:---:|:---:|
+| **7.2/10** <br> ★★★½☆ | **90 min** | **2013-10-03** | **9** |
+
+</div>
+
+---
+
+## 📖 Резюме
+
+<div style="background: #f0fdf4; padding: 16px; border-radius: 12px; color: #14532d;">
+
+Гравитация бг аудио. Д-р Райън Стоун е медицински инженер на първата си мисия под командването на ветерана астронавт Мат Ковалски. Въпреки че мисията е рутинна, се случва злополука. Совалката е унищожена, а Стоун и Ковалски остават съвсем сами да се носят из космическия мрак. Те разбират, че са загубили всякаква връзка със Земята и страхът бързо прераства в паника. Ще намерят ли начин да се върнат у дома?
+
+</div>
+
+---
+
+## 🎯 Детайли за Филма
+
+| Attribute | Information |
+|:---|:---|
+| **Original Title** | Gravity |
+| **Status** | Released |
+| **Budget** | $105,000,000 |
+| **Revenue** | $723,192,705 |
+| **Vote Count** | 16,226 |
+| **Genres** | Научна-фантастика, Трилър, Драма |
+| **Production** | Esperanto Filmoj, Warner Bros. Pictures, Heyday Films |
+
+---
+
+## 🎬 Информация за Филма
+
+<div align="center">
+
+<a href="https://playstream.cc/bg/movie/49047" target="_blank" rel="nofollow">
+<img src="https://imagdb.pages.dev/button2.jpg" alt="Movie Information" width="100%" style="border-radius: 12px;">
+</a>
+
+</div>
+
+> ℹ️ За официална информация за този филм, моля, посетете официалния уебсайт на филма или оторизираните платформи.
+
+---
+
+## 📺 Official Trailer
+
+<div align="center">
+
+<a href="https://www.youtube.com/watch?v=8K94dmhxk50" target="_blank" rel="nofollow">
+<img src="https://img.youtube.com/vi/8K94dmhxk50/maxresdefault.jpg" alt="Trailer" width="100%" style="border-radius: 12px;">
+</a>
+
+*🎥 Гледайте официалния трейлър*
+
+</div>
+
+---
+
+## 📖 Гравитация: Анализ на Историята
+
+Д-р Райън Стоун е медицински инженер на първата си мисия под командването на ветерана астронавт Мат Ковалски. Въпреки че мисията е рутинна, се случва злополука. Совалката е унищожена, а Стоун и Ковалс Историята представя убедителен разказ с изключителна кинематография и мощни изпълнения.
+
+> Този запомнящ се ред улавя същността на филма: пътешествие на смелост, емоция и трансформация.
+
+Емоционалната дълбочина и структура на разказа правят този филм забележително киноизживяване, което си струва да се изследва.
+
+---
+
+## 🍿 За Гравитация
+
+Гравитация представлява крайъгълен камък в съвременното филмово производство, показвайки техническо съвършенство и артистична визия.
+
+<ul>
+<li>🎬 Official website and authorized platforms</li>
+<li>🎬 Theatrical release information</li>
+<li>🎬 Home media and digital releases</li>
+</ul>
+
+---
+
+## 💡 Защо Гравитация Има Значение
+
+Филмът въвежда свежи перспективи и смислени героични арки, които резонират с публиката по света.
+
+С иновативния си подход и убедителен разказ, Гравитация поставя нов стандарт за кинематографично съвършенство.
+
+---
+
+## 🎭 Главен Актьорски Състав
+
+<div align="center">
+
+| Actor | Character |
+|:---|:---|
+| Sandra Bullock | Ryan Stone |
+| Джордж Клуни | Matt Kowalski |
+| Ед Харис | Mission Control (voice) |
+| Orto Ignatiussen | Aningaaq (voice) |
+| Phaldut Sharma | Shariff (voice) |
+
+</div>
+
+---
+
+## ⭐ Отзиви на Публиката
+
+<div style="background: #1e293b; padding: 16px; border-radius: 12px; margin: 10px 0;">
+
+**Майкъл Р.** ⭐⭐⭐⭐⭐
+
+> "Абсолютно невероятно киноизживяване! Визуалните ефекти са зашеметяващи и историята ви държи ангажирани през цялото време."
+
+</div>
+
+<div style="background: #1e293b; padding: 16px; border-radius: 12px; margin: 10px 0;">
+
+**Сара Дж.** ⭐⭐⭐⭐½
+
+> "Един от най-добрите филми тази година. Страхотна игра, невероятна кинематография и мощна сюжетна линия."
+
+</div>
+
+<div style="background: #1e293b; padding: 16px; border-radius: 12px; margin: 10px 0;">
+
+**Джеймс К.** ⭐⭐⭐⭐⭐
+
+> "Струва си всяка минута! Екшън сцените са впечатляващи и емоционалната дълбочина е изненадваща."
+
+</div>
+
+---
+
+## ❓ Често Задавани Въпроси
+
+<div style="background: #0f172a; padding: 16px; border-radius: 12px; margin: 12px 0; border-left: 4px solid #3b82f6;">
+
+**❓ За какво е този филм?**
+
+Гравитация е кинематографичен шедьовър, който изследва темите за смелостта, семейството и приключенията.
+
+</div>
+
+<div style="background: #0f172a; padding: 16px; border-radius: 12px; margin: 12px 0; border-left: 4px solid #3b82f6;">
+
+**❓ Кой е режисьорът на този филм?**
+
+Филмът е режисиран от известни режисьори, известни с визионерското си разказване на истории.
+
+</div>
+
+<div style="background: #0f172a; padding: 16px; border-radius: 12px; margin: 12px 0; border-left: 4px solid #3b82f6;">
+
+**❓ Къде мога да намеря официална информация?**
+
+Официална информация е достъпна на официалния уебсайт на филма и оторизирани платформи.
+
+</div>
+
+<div style="background: #0f172a; padding: 16px; border-radius: 12px; margin: 12px 0; border-left: 4px solid #3b82f6;">
+
+**❓ Какви награди е спечелил този филм?**
+
+Филмът е получил множество награди за своите технически и артистични постижения.
+
+</div>
+
+<div style="background: #0f172a; padding: 16px; border-radius: 12px; margin: 12px 0; border-left: 4px solid #3b82f6;">
+
+**❓ Колко е дълъг филмът?**
+
+Продължителността е приблизително 90 минути.
+
+</div>
+
+---
+
+## 🔗 Бърз Достъп
+
+<div align="center">
+
+| **TMDB ID** | **IMDB ID** | **Language** |
+|:---:|:---:|:---:|
+| 49047 | tt1454468 | bg-BG |
+
+</div>
+
+---
+
+<div align="center">
+
+**Гравитация - Официална Информация за Филма | Актьорски Състав и Екип | Детайли за Филма**
+
+</div>
